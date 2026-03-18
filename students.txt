@@ -1,0 +1,3 @@
+Lekshmi,19,BCA
+Meera,20,BCA
+Bijil,21,BCA
